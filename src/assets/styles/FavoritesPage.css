@@ -1,0 +1,51 @@
+.favorites-page {
+  padding-top: 60px;
+}
+
+.favorites-hero {
+  background-color: rgba(40, 16, 10, 0.966);
+  padding: 3rem 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.favorites-title {
+  color: #fff;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.favorites-subtitle {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 1.1rem;
+  max-width: 600px;
+}
+
+.favorites-container {
+  padding: 30px 15px;
+}
+
+
+@media (max-width: 767px) {
+  .favorites-hero {
+    padding: 2rem 0;
+  }
+  
+  .favorites-title {
+    font-size: 2rem;
+  }
+  
+  .favorites-subtitle {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .favorites-hero {
+    padding: 1.5rem 0;
+  }
+  
+  .favorites-title {
+    font-size: 1.75rem;
+  }
+}

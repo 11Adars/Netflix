@@ -1,0 +1,8 @@
+.movie-details-page {
+  padding-top: 60px; }
+
+@media (max-width: 767px) {
+  .movie-details-page {
+    padding-top: 56px;
+  }
+}

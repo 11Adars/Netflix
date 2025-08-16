@@ -1,0 +1,211 @@
+[
+  {
+    "id": 3,
+    "title": "Stranger Things",
+    "description": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+    "genre": [ "Horror", "Drama"],
+    "releaseDate": "06-06-2015",
+    "rating": 8.7,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg"
+  },
+  {
+    "id": 2,
+    "title": "KGF- Chapter 1",
+    "description": "A period drama set in the 1970s, KGF follows the story of a fierce rebel who rises against the brutal oppression in Kolar Gold Fields and becomes the symbol of hope to legions of downtrodden people.",
+    "genre": ["Thriller","Action"],
+    "releaseDate": "06-09-2021",
+    "rating": 9.5,
+    "duration": "1hr 50min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/3Cdm7hzNB29Mi5khBSfXFthHlmv.jpg",
+    "backdropUrl":"https://image.tmdb.org/t/p/original/cY4ytkF1ZbHbn1s4P7RpsRLN9yQ.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Kantara",
+    "description": "When greed paves the way for betrayal, scheming and murder, a young tribal reluctantly dons the traditions of his ancestors to seek justice.",
+    "genre": ["Thriller"],
+    "releaseDate": "12-06-2018",
+    "rating": 9.9,
+    "duration": "1hr 49min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/j30g92Wiobe0obGBdRNe5iuxdQF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/wVqJvclfar4m6x9PUzXPG2mjM8z.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Su from So",
+    "description": "In a peaceful village full of joy, laughter, and vibrant life, everything seems perfect—until one day, the devil arrives. What follows is a hilarious chain of events that flips the entire village upside down!",
+    "genre": ["Drama", "Comedy"],
+    "releaseDate": "03-08-2025",
+    "rating": 9.2,
+    "duration": "1hr 60min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/a9v6QSFClDqGX2D0YCORp8T1Ji0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/fBnwpACxGkChCTVvWSfwjeKbSPv.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Money Heist",
+    "description": "A criminal mastermind who goes by 'The Professor' has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain.",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "releaseDate": "06-07-2017",
+    "rating": 8.3,
+    "duration": "1hr 70min",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Kirik Party",
+    "description": "Karna from a small town has joined this engineering college and he gangs up with his hostel mates Loki, Alexander, Manja and others to fuel a lot of mischief in the college.",
+    "genre": [ "Drama", "Comedy"],
+    "releaseDate": "06-09-2016",
+    "rating": 8.7,
+    "duration": "1hr 60min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/oKPrrCNGJuYdmn0ZeUZbPCAvvun.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/26urzEswGoBMN8a4umZgyMvlIKm.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Bahubali",
+    "description": "A dark chapter in the Mahishmati kingdom's history that became its greatest challenge and shaped the future of its two princes, Baahubali and Bhallaladeva.",
+    "genre": ["Action", "History"],
+    "releaseDate": "06-06-2019",
+    "rating": 9.0,
+    "duration": "1hr 58min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/i2GPnSwsdxHtI19e7gZwFVndpqg.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Squid Game",
+    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits with deadly high stakes.",
+    "genre": ["Action", "Mystery"],
+    "releaseDate": "06-08-2025",
+    "rating": 8.0,
+    "duration": "1hr 54min",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/qw3J9cNeLioOLoR68WX7z79aCdK.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Coolie",
+    "description": "A mysterious man takes a stand against a corrupt syndicate exploiting and abusing the workers of a port town.",
+    "genre": ["Action", "Thriller"],
+    "releaseDate": "09-08-2025",
+    "rating": 9.6,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/4NHs0s9WynldKaOpz2UhwD6ZLXe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Lucky Baskar",
+    "description": "A cash-strapped bank cashier embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering",
+    "genre": ["Comedy", "Thriller"],
+    "releaseDate": "06-06-2024",
+    "rating": 9.4,
+    "duration": "1hr 50min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/oyHavuzigDvYly1zeEOXhTqxDCE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/q8UyN4XhpmChtneZXdZ8fktQka6.jpg"
+  },
+  {
+    "id": 11,
+    "title": "The Legend of Hanuman",
+    "description": "When the power-hungry Ravan tore through the world to unleash evil, in his way stood a humble vaanar awoken to his divinity to become an immortal legend. The series follows Hanuman and his transformation from a mighty warrior to a god and how Hanuman became the beacon of hope amidst the harrowing darkness.",
+    "genre": ["Action", "Drama"],
+    "releaseDate": "09-11-2021",
+    "rating": 9.6,
+    "duration": "1hr 45min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/AdCWLnuw01cWkdy7nsZVtnX4KVn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/bU59wa5qFpYSpqOyKJGdWxxzFlw.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Mahavatar Narsimha",
+    "description": "Hiranyakashyap, the tyrannical demon, challenges Vishnu, proclaiming himself a god. However, his son Prahlad remains devoted to Vishnu, who appears as Narsimha to defeat the demon.",
+    "genre": ["Action", "Drama"],
+    "releaseDate": "09-07-2025",
+    "rating": 9.6,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/wfGTnnP35bWCd8iOtmKa2Hy7MAQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/prqMnCgyFQ2VkIQArfUjgB1G22s.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Yajamana",
+    "description": "The film revolves around a hardworking man Krishna who lives in Hulidurga and is famous for traditional oil extraction. He is torn apart from being the rightful owner with the entry of business tycoon Devi Shetty. Will Krishna fight against all odds to bring justice to his people? Who will become the real `Yajamana` is what forms the crux of the story.",
+    "genre": ["Action", "Drama"],
+    "releaseDate": "09-07-2022",
+    "rating": 8.6,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/lHPFLV4dmoZi3N8aAz1Hxh42aa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/lHPFLV4dmoZi3N8aAz1Hxh42aa.jpg"
+  },
+  {
+    "id": 14,
+    "title": "777 Charlie",
+    "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie who is naughty and energetic which is a complete contrast with the Dharma’s character enters his life and gives him a new perspective towards it.",
+    "genre": ["Comedy", "Drama"],
+    "releaseDate": "09-07-2023",
+    "rating": 9.4,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/3Sdi32wfIIOtDz1hYik6bGe1iWC.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Yuvaratna",
+    "description": "A government aided college, RK University, is on the verge of completing its golden jubilee but a bizarre event shuts it down indefinitely. Will RK University restore its lost glory?",
+    "genre": ["Action", "Drama"],
+    "releaseDate": "02-06-2021",
+    "rating": 8.6,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/7OU8Kn5kDwcy2npjLw0WR8uzmme.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/yATa3rA9KQEJzsPUoklDtYIDSTE.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Bhageera",
+    "description": "Dismayed by corruption and violence, a virtuous police officer becomes a masked vigilante to dliver lethal justice to criminals and crooked cops alike..",
+    "genre": ["Thriller", "Crime"],
+    "releaseDate": "09-07-2025",
+    "rating": 9.0,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/tUJqGAMEucwduzqoVkSRwBlWV8o.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/tUJqGAMEucwduzqoVkSRwBlWV8o.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Pushpa",
+    "description": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+    "genre": ["Action", "Crime"],
+    "releaseDate": "09-07-2024",
+    "rating": 9.3,
+    "duration": "1hr 30min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/7jGItf7idJsBm9QTNoTNTU3KiGe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/7jGItf7idJsBm9QTNoTNTU3KiGe.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Devara",
+    "description": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+    "genre": ["Thriller", "Action"],
+    "releaseDate": "09-07-2024",
+    "rating": 9.4,
+    "duration": "1hr 40min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/nkWAw6mDVWh3w7QA3eg0hKcMXWo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/hAQnXxOwCjgYcKRgTdYPRC8neqL.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Manjummel Boys",
+    "description": "Manjummel Boys, based on a real story, is about a bunch of friends who set out on a trip to Kodaikanal and the events that occur there.",
+    "genre": ["Action", "Drama"],
+    "releaseDate": "04-05-2024",
+    "rating": 9.5,
+    "duration": "1hr 50min",
+    "posterUrl": "https://image.tmdb.org/t/p/original/7sNujxk3iH5T2CwS6QDIiIjs1SR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/saR2FcxjnRybC0mYFN0Vv6nAdtY.jpg"
+  }
+]
