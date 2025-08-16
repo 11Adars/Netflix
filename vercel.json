@@ -1,0 +1,17 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/(favicon.ico|logo192.png|logo512.png|manifest.json|robots.txt|data/movies.json)",
+      "destination": "/$1"
+    },
+    {
+      "source": "/static/(.*)",
+      "destination": "/static/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
+}
