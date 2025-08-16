@@ -1,16 +1,9 @@
 {
   "rewrites": [
-    {
-      "source": "/(favicon.ico|logo192.png|logo512.png|manifest.json|robots.txt|data/movies.json)",
-      "destination": "/$1"
-    },
-    {
-      "source": "/static/(.*)",
-      "destination": "/static/$1"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
+    { "source": "/assets/:path*", "destination": "/assets/:path*" },
+    { "source": "/:asset(favicon.ico|logo192.png|logo512.png|manifest.json|robots.txt)", 
+      "destination": "/:asset" },
+    { "source": "/data/:path*", "destination": "/data/:path*" },
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
